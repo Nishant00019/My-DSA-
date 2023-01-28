@@ -10,3 +10,5 @@ int main()
         cout<<p[i];
     }
 }
+
+//Time complexity : O(n)
